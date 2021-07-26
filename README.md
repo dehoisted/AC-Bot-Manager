@@ -1,11 +1,12 @@
 # AC-Bot-Manager
-Assault Cube internal cheat, that allows you to manage bots easily. Works by calling functions internally.
+Internal Assault Cube cheat that allows you to manage bots easily, using keybinds. Works by calling functions internally.                                       
+Side Note: Bot skill rotates like this; bad, worse, medium, good, and best.
 
 # Keybinds
 + F1 To turn OP mode on and off.
 + F2 to spawn 1 bot into the lobby.
 + F3 to idle and unidle all bots.
-+ F4 to switch all bots skill. (bad to worse to medium to good to best)
++ F4 to switch all bots skill.
 + F5 to teleport random bot to you.
 + F6 to despawn ALL bots in lobby.
 + F7 to detach bot manager from game.
