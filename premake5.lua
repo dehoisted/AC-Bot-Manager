@@ -1,6 +1,6 @@
 --[[
    premake5.lua
-   Only for bot manager, not the injector.
+   Only for Bot-Manager, not the Injector.
    7/26/2021
 --]]
 
