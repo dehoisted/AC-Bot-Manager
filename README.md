@@ -18,4 +18,5 @@ Official Link: https://assault.cubers.net/
 # Images
 ![image](https://user-images.githubusercontent.com/75084509/127054610-7013dd30-3442-446a-acdd-8f04f1ddc6a5.png)
 ![image](https://user-images.githubusercontent.com/75084509/127055094-a040eb41-b7a0-474c-ac16-d04a093b4615.png)
+When using some keybinds:
 ![image](https://user-images.githubusercontent.com/75084509/127055260-37ec9570-2ea4-49b4-81da-d3e4e2319061.png)
