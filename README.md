@@ -1,7 +1,8 @@
 # AC-Bot-Manager
-Internal Assault Cube cheat that allows you to manage bots easily, using keybinds.                                                                        
-Works by calling functions internally.                                       
-Side Note: Bot skill rotates like this; bad, worse, medium, good, and best.
+Internal Assault Cube cheat that allows you to manage bots easily, using keybinds.                                                                             
+Using the cheat is simple, just download the latest release [here.](https://github.com/dehoisted/AC-Bot-Manager/releases)
+After your done, extract the ZIP file, then run BM_Injector.exe. (with administrator privileges)
+Make sure Assault Cube is open.
 
 # Keybinds
 + F1 - Turn OP mode on and off.
@@ -14,10 +15,9 @@ Side Note: Bot skill rotates like this; bad, worse, medium, good, and best.
 + F8 - Disconnect all bots in your current lobby.
 + F9 - Detach bot manager from Assault Cube.
 
-# Images
-![image](https://user-images.githubusercontent.com/75084509/127054610-7013dd30-3442-446a-acdd-8f04f1ddc6a5.png)                                                 
-
+# Images                                                 
 When Injected:                                                                                                                                            
+![image](https://user-images.githubusercontent.com/75084509/127413703-1410a291-6505-4e54-8318-b8e1bcf2d98e.png)
 
 ![image](https://user-images.githubusercontent.com/75084509/127413421-f221cd75-434b-4e09-a8e2-538d8b991d3a.png)                                                 
 
