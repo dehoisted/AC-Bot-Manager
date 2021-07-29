@@ -19,7 +19,6 @@ Side Note: Bot skill rotates like this; bad, worse, medium, good, and best.
 
 When Injected:                                                                                                                                            
 
-![image](https://user-images.githubusercontent.com/75084509/127055094-a040eb41-b7a0-474c-ac16-d04a093b4615.png)
 ![image](https://user-images.githubusercontent.com/75084509/127413421-f221cd75-434b-4e09-a8e2-538d8b991d3a.png)                                                 
 
 When using some keybinds:                                                                                                                                       
