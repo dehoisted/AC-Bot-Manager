@@ -14,7 +14,7 @@ Side Note: Bot skill rotates like this; bad, worse, medium, good, and best.
 + F8 - Disconnect all bots in your current lobby.
 + F9 - Detach bot manager from Assault Cube.
 
-# Assault Cube Game
+# Assault Cube Information
 Official web page: https://assault.cubers.net/                                                                                                                 
 Docs: https://assault.cubers.net/docs/                                                                                                                         
 Game download: https://assault.cubers.net/download.html
