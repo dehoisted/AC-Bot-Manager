@@ -21,8 +21,7 @@ Game download: https://assault.cubers.net/download.html
 
 # Images
 ![image](https://user-images.githubusercontent.com/75084509/127054610-7013dd30-3442-446a-acdd-8f04f1ddc6a5.png)
-When Injected:                                                                                                                                                  
-
+When Injected:                                                                                                                                                 
 ![image](https://user-images.githubusercontent.com/75084509/127055094-a040eb41-b7a0-474c-ac16-d04a093b4615.png)
 ![image](https://user-images.githubusercontent.com/75084509/127413421-f221cd75-434b-4e09-a8e2-538d8b991d3a.png)
 When using some keybinds:                                                                                                                                       
