@@ -1,0 +1,11 @@
+More detailed explanation of the keybinds.
+
+F1 - Turns health, ammo, and grenade value to 1337, also turns off recoil. When turned off, recoil is set back to normal and other values.
+F2 - Spawn single bot into the lobby, with a randomly generated 6 character name.
+F3 - Draw beams pointing to all bots in the lobby.
+F4 - Teleports the most laggy bot to your local player.
+F5 - Changes whether bots will shoot or not.
+F6 - Idle or unidle all bots.
+F7 - Rotate all bots skill. Bad to worse to medium to good to best.
+F8 - Disconnect all bots in your current lobby. This can crash your game if you have way too many bots.
+F9 - Pops up a message box, asking you whether you want to detach bot manager from Assault Cube or not.
