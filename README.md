@@ -4,16 +4,21 @@ Works by calling functions internally.
 Side Note: Bot skill rotates like this; bad, worse, medium, good, and best.
 
 # Keybinds
-+ F1 To turn OP mode on and off.
-+ F2 to spawn 1 bot into the lobby.
-+ F3 to idle and unidle all bots.
-+ F4 to switch all bots skill.
-+ F5 to teleport random bot to you.
-+ F6 to despawn ALL bots in lobby.
-+ F7 to detach bot manager from game.
++ F1 - Turn OP mode on and off.
++ F2 - Spawn single bot into the lobby.
++ F3 - Draw beam pointing to all bots in the lobby.
++ F4 - Teleport single bot to you.
++ F5 - Change whether bots will shoot or not.
++ F6 - Idle or unidle all bots.
++ F7 - Rotate all bots skill.
++ F8 - Disconnect all bots in your current lobby.
++ F9 - Detach bot manager from Assault Cube.
 
-# Assault Cube
-Official Link: https://assault.cubers.net/
+# Assault Cube Game
+Official web page: https://assault.cubers.net/                                                                                                                 
+Docs: https://assault.cubers.net/docs/
+
+Game download: https://assault.cubers.net/download.html
 
 # Images
 ![image](https://user-images.githubusercontent.com/75084509/127054610-7013dd30-3442-446a-acdd-8f04f1ddc6a5.png)
