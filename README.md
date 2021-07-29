@@ -17,7 +17,6 @@ Side Note: Bot skill rotates like this; bad, worse, medium, good, and best.
 # Assault Cube Game
 Official web page: https://assault.cubers.net/                                                                                                                 
 Docs: https://assault.cubers.net/docs/
-
 Game download: https://assault.cubers.net/download.html
 
 # Images
