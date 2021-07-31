@@ -1,6 +1,6 @@
 # AC-Bot-Manager
 Internal Assault Cube cheat that allows you to manage bots easily, using keybinds.                                                                           
-Cheat made by mostly calling game functions internally.                                                                                                       
+Whole cheat made mostly by calling game functions internally.                                                                                                       
 
 Using the cheat is simple, just download the latest release [here.](https://github.com/dehoisted/AC-Bot-Manager/releases)                                    
 After your done, extract the ZIP file, then run BM_Injector.exe. (with administrator privileges)                                                              
